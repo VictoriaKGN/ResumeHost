@@ -23,7 +23,7 @@ layout: home
 ## Education
 ---------
 
-**Bachelor of Science, Computer Science Najor (Co-op Option)**
+**Bachelor of Science, Computer Science Major (Co-op Option)**
 :   Fall 2019 - Present
 
     Univeristy of Manitoba
@@ -52,7 +52,7 @@ layout: home
 
     University of Manitoba, Winnipeg, MB
 
-    * Assisted and guided students with a range of Java and Processing in-class COMP 1010 exercises
+    * Assisted and guided students with a range of Java and Processing in-class COMP 1010 exercises.
     * Answered student inquiries and directed them to the right solution.
     * Connected with each student group and provided reminders to ensure successful compilation of tasks.
 
@@ -74,7 +74,7 @@ layout: home
 **Database (group, COMP 3380 – Database Concepts and Usage)**
 :   Fall 2021
 
-    Database project based on publicly available data which is implemented and designed completely by the group. The project was resented using Java while queries for the database were formulated and run using SQL.
+    Database project based on publicly available data which is implemented and designed completely by the group. The project was presented using Java while queries for the database were formulated and run using SQL.
 
 **BattleShip (Personal)**
 :   Fall 2019
