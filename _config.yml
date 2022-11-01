@@ -21,7 +21,7 @@
 title: Victoria Kogan
 email: koganv@myumanitoba.ca
 description: 
-baseurl: "resume" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: victoria-kogan
 github_username:  victoriaKGN
