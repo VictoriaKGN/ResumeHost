@@ -32,6 +32,7 @@ permalink: /README/
 
 #### Host a resume on a local site using Jekyll
 **1. Host local site**
+![localSite](https://user-images.githubusercontent.com/93400045/199336158-9a3ce3fa-a900-423f-924b-ccf4b331f2d7.gif)
 * Open command promped or terminal in the text editor of your choice and make sure you are at the right directory
 * Run `jekyll new <website_name>` where \<website_name\> is the name of your choice for the website
 * Navigate into the new directory by running `cd \<website_name\>`
