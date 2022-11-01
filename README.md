@@ -38,9 +38,10 @@ permalink: /README/
 > Lightweight markup languages make it easier than ever to display text. They are easy and fast to learn and can be used to make websites quick. In this case we are using Markdown.
 
 **1. Host local site**
+![localSite](https://user-images.githubusercontent.com/93400045/199336158-9a3ce3fa-a900-423f-924b-ccf4b331f2d7.gif)
 * Open command promped or terminal in the text editor of your choice and make sure you are at the right directory
-* Run `jekyll new <website_name>` where \<website_name\> is the name of your choice for the website
-* Navigate into the new directory by running `cd \<website_name\>`
+* Run `jekyll new <website_name>` where `<website_name>` is the name of your choice for the website
+* Navigate into the new directory by running `cd <website_name>`
 * To proceed, run `bundle install` to make sure all the correct gems been installed
 * Run `bundle exec jekyll serve`
 * Open any browser of choice and go to `localhost:4000`
@@ -64,15 +65,15 @@ permalink: /README/
 * To checkout GitHub Pages branch, run `git checkout -b gh-pages`
 * Run `git add .` to add stage the new files 
 * Run `git commit -m "initial commit"` to commit the changes
-* Create a repository in Github called `<user_name>.github.io` where \<user_name\> is your GitHub username
-* Run `git remote add origin <remote_repository_URL>` where \<remote_repository_URL\> is the URL of your GitHub repository
+* Create a repository in Github called `<user_name>.github.io` where `<user_name>` is your GitHub username
+* Run `git remote add origin <remote_repository_URL>` where `<remote_repository_URL>` is the URL of your GitHub repository
 * To push all files into that repository, run `git push origin gh-pages`
 * Refresh the GitHub repository and you should be able to see the files
 
 **2. Open the resume's GitHub Pages website**
 * Head to the settings of the GitHub repository
 * Go to `Pages` on the left menu
-* Look for a message that says `Your site is live at <URL>` and click the \<URL\>
+* Look for a message that says `Your site is live at <URL>` and click the URL
 * Your resume is now live!
 
 #### More resources
