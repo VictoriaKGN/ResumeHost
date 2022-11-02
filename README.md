@@ -12,7 +12,8 @@
 ## Instructions
 #### Install Ruby and Jekyll
 > _Format a document with a static site generator_
-> Static sites are incredible dependable, quick, and easy to use. They dont require any additional installs or complecated dependencies. In this case we are using Jekyll to host the local static site.
+>
+> Static sites are incredible dependable, quick, and easy to use. They dont require any additional installs or complicated dependencies. In this case we are using Jekyll to host the local static site.
 
 **1. Install Ruby**
 * Head over to [RubyInstaller](https://rubyinstaller.org/downloads/) and install the latest version under WITH DEVKIT (this is important as it will help us later on)
@@ -29,6 +30,7 @@
 
 #### Host a resume on a local site using Jekyll
 > _Use a lightweight markup language_
+>
 > Lightweight markup languages make it easier than ever to display text. They are easy and fast to learn and can be used to make websites quick. In this case we are using Markdown.
 
 **1. Host local site**
@@ -51,6 +53,7 @@
 
 #### Get the resume on GitHub Pages
 > _Host documents on a distributed version control system_
+>
 > Version control makes it easier to keep track of changes and enable multiple people to work on the same files without making a mess. Any sort of changes are recorded and its super easy to revert them. In this case we are using GitHub.
 
 **1. Upload the static website into GitHub**
