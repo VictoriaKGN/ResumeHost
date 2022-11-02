@@ -1,10 +1,4 @@
----
-layout: page
-title: README
-permalink: /README/
----
-
-# How to host and format a resume using Markdown, Markdown editor, Github Pages and Jekyll in Windows
+# How to host a resume on GitHub Pages in Windows
 
 ## Purpose
 * Host and format a resume using Markdown, editor of choice, Github Pages, and Jekyll.
@@ -31,7 +25,7 @@ permalink: /README/
 * To make sure Ruby was correctly installed, run `ruby -v`. A version printed indicates it was correctly installed.
 * Do the same with `gem -v`
 * Run `gem install jekyll bundler`
-* To make sure Type `jekyll -v` and hit enter to make sure it was correctly installed.
+* To make sure it was correctly installed, run `jekyll -v`.
 
 #### Host a resume on a local site using Jekyll
 > _Use a lightweight markup language_
@@ -59,7 +53,7 @@ permalink: /README/
 > _Host documents on a distributed version control system_
 > Version control makes it easier to keep track of changes and enable multiple people to work on the same files without making a mess. Any sort of changes are recorded and its super easy to revert them. In this case we are using GitHub.
 
-**1. Push the static website into GitHub**
+**1. Upload the static website into GitHub**
 * Open Git CMD and make sure you are at the Jekyll project folder
 * Run `git init` to initialize the git repository inside the Jekyll project
 * To checkout GitHub Pages branch, run `git checkout -b gh-pages`
@@ -82,6 +76,8 @@ permalink: /README/
 * [Jekyll tutorials](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
 ## Authors and Acknoledgments
+#### Theme Credits:
+* 'minima' theme author [Ashwin Maroli](https://github.com/jekyll/minima)
 #### Reviewers:
 * Aqil Mukhi
 * Ryan Dotzlaw
